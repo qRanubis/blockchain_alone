@@ -1,0 +1,10 @@
+# Fișiere sensibile
+*.pem
+
+# Fișiere generate automat
+__pycache__/
+*.pyc
+
+# Environment-ul virtual
+venv/
+.env
